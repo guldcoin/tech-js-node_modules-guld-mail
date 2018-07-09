@@ -1,6 +1,5 @@
 const { getConfig } = require('guld-git-config')
 const { getName } = require('guld-user')
-const addrs = require('email-addresses')
 var fs
 
 async function getAddress (owner) {

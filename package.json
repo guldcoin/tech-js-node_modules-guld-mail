@@ -16,8 +16,8 @@
   "author": "isysd",
   "license": "MIT",
   "dependencies": {
-    "email-addresses": "^3.0.1",
-    "guld-git-config": "^1.1.1"
+    "guld-git-config": "^1.1.1",
+    "guld-user": "^0.1.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
