@@ -1,6 +1,5 @@
 const { getConfig } = require('guld-git-config')
 const { getName } = require('guld-user')
-var fs
 
 async function getAddress (owner) {
   owner = owner || await getName()
