@@ -16,8 +16,8 @@
   "author": "isysd",
   "license": "MIT",
   "dependencies": {
-    "guld-git-config": "^1.2.2",
-    "guld-user": "^0.5.2"
+    "guld-git-config": "^1.2.3",
+    "guld-user": "^0.5.3"
   },
   "devDependencies": {
     "chai": "^4.1.2",
@@ -39,5 +39,7 @@
   "readme": "README.md",
   "engines": {
     "node": ">=7"
-  }
+  },
+  "homepage": "https://github.com/isysd/tech-js-node_modules-guld-mail#readme",
+  "repository": "git@github.com:isysd/tech-js-node_modules-guld-mail.git"
 }
