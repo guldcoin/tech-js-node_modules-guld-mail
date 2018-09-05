@@ -1,6 +1,6 @@
 {
   "name": "guld-mail",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Guld mail is a signed, encrypted, and witnessed email system.",
   "main": "index.js",
   "scripts": {
